@@ -1,0 +1,31 @@
+npm install react-native-paper@5.0.0-rc.10
+
+
+react navigation
+
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+
+git config --global user.email "blso1@aluno.ifal.edu.br"
+git config --global user.name "BrayanLucas19"
+
+
+/////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+1 - Criar a variavel contante com useState
+    const [carrinho, setCarrinho] = useState([]);
+2 - 
+
+
